@@ -2,7 +2,7 @@
 
 # Editor.php
 
-Editor.php is a package designed to assist in parsing and manipulating the output of [Editor.js](https://editorjs.io/) with ease. It can be used with either vanilla PHP or with Larave. Laravel offers few additional features.
+Editor.php is a package designed to assist in parsing and manipulating the output of [Editor.js](https://editorjs.io/) with ease. It can be used with either vanilla PHP or with Laravel. Laravel offers few additional features.
 
 ## Table Of Contents
 
